@@ -1,0 +1,15 @@
+code check :
+https://validator.w3.org/
+
+codepen : 
+
+https://codepen.io/shayhowe/pen/GztfH
+
+validators :
+wave web accesibility
+
+tools: 
+funkify
+
+webhost:
+byethost.com
